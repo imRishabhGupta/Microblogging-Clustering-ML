@@ -7,8 +7,11 @@ To extract the dataset, Twitter’s Search API, which is a part of Twitter’s R
 
 ## Project Flow
 *Syntactic Decomposition
+
 *Semantic Mapping using knowledge bases like Wordnet and Wikipedia.
+
 *Clustering using K Means
+
 *Labelling using RAKE
 
 ## Contribution
@@ -16,8 +19,11 @@ Feel free to contribute and suggest new techniques to make this project better.
 
 ## Project Contributors
 Rishabh Gupta
+
 Sachin Agarwal
+
 Shreynik Kumar
+
 Vanshaj Behl
 
 **We hope, this project will help you give a start to machine learning world. **
